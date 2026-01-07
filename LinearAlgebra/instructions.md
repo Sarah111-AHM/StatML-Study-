@@ -22,6 +22,119 @@ a collaboratively curated repository compiling and synthesizing playlists and re
 
 ## Linear Algebra, Fall 2011 - Strang
 [playlist link](https://youtube.com/playlist?list=PL49CF3715CB9EF31D&si=Ill42jM7TbO4WoVR)  
+![Linear Algebra GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)  
+- playlist by Prof. Gilbert Strang  
+- topics: vectors, matrices, basic operations, linear systems  
+- visual examples and Python exercises
+
+## Linear Algebra - Strang, Recent
+[playlist link](https://youtube.com/playlist?list=PLUl4u3cNGP61iQEFiWLE21EJCxwmWvvek)  
+![Matrix Operations GIF](https://media.giphy.com/media/l0HlSNOxJB956qwfK/giphy.gif)  
+- updated Strang lectures  
+- topics: matrix multiplication, determinants, inverses, eigenvalues  
+
+## 18.06 Linear Algebra, Spring 2010 - Strang
+[playlist link](https://youtube.com/playlist?list=PLE7DDD91010BC51F8)  
+![Linear Transformations GIF](https://media.giphy.com/media/xUPGcsnI6ihQFZpRhe/giphy.gif)  
+- MIT course 18.06  
+- topics: linear transformations, vector spaces, orthogonality  
+
+## Introduction to Linear Algebra - 3Blue1Brown
+[playlist link](https://youtube.com/playlist?list=PL221E2BBF13BECF6C)  
+![3Blue1Brown GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)  
+- visual intuition for linear algebra  
+- concepts: span, basis, eigenvectors, linear transformations  
+
+## Chapter 1, Essence of Linear Algebra
+[video link](https://youtu.be/osEADxaIKIc?si=f4RUD1b7Fp1CKtnL)  
+![Essence GIF](https://media.giphy.com/media/3o7aD6M6O0lQzJt2Cw/giphy.gif)  
+- 3Blue1Brown series  
+- focuses on geometric understanding of vectors and matrices  
+
+## 18.06 SC Linear Algebra, Fall 2011 - Strang
+[playlist link](https://youtube.com/playlist?list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a)  
+![Projection GIF](https://media.giphy.com/media/l0HlG1e1rF1k3Z6hy/giphy.gif)  
+- MIT course with applications  
+- topics: linear algebra applications, orthogonality, projections  
+
+## Linear Algebra - Professor Dave Explains
+[playlist link](https://youtube.com/playlist?list=PLoROMvodv4rMz-WbFQtNUsUElIh2cPmN9)  
+![Professor Dave GIF](https://media.giphy.com/media/26xBuwVU5d1m0Pi4s/giphy.gif)  
+- simplified explanations for beginners  
+- topics: matrices, operations, inverse, eigenvectors  
+
+## Linear Algebra done right solutions
+[playlist link](https://youtube.com/playlist?list=PL2qEL_7r0QISg3wu4D_j9xRJodZsfjBEu)  
+![Step by Step GIF](https://media.giphy.com/media/l0HlSNOxJB956qwfK/giphy.gif)  
+- companion to textbook "Linear Algebra Done Right"  
+- step-by-step solutions, examples  
+
+## Linear Algebra - The Organic Chemistry Tutor
+[playlist link](https://youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3)  
+![Organic Tutor GIF](https://media.giphy.com/media/3o7aD6M6O0lQzJt2Cw/giphy.gif)  
+- beginner-friendly lectures  
+- topics: matrices, determinants, eigenvectors  
+
+## Linear Algebra - Full Course - FreeCodeCamp
+[playlist link](https://youtube.com/playlist?list=PLMCRxGutHqfnC5QNWo9DAsU_QlXK5JoDX)  
+![Full Course GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)  
+- complete full course  
+- topics: vectors, matrices, linear transformations, eigenvectors, applications  
+
+## Linear Algebra - Math for deep learning
+[playlist link](https://youtube.com/playlist?list=PLwF3A0R8OzMoMlE1-SaEh8h9VqUlO-r52)  
+![Math for DL GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)  
+- emphasizes linear algebra for AI/ML  
+- topics: vectors, matrices, matrix multiplication, eigenvalues, gradient intuition  
+
+## Linear Algebra (Spring 2023) - Imperial College London
+[playlist link](https://youtube.com/playlist?list=PLOROtRhtegr4HyXIIHKHketOm2k3JWSpK)  
+![Imperial College GIF](https://media.giphy.com/media/3o7aD6M6O0lQzJt2Cw/giphy.gif)  
+- recent course from Imperial College  
+- topics: vectors, matrices, linear systems, eigenvectors, applications  
+
+---
+
+## student workflow
+- open the repository directly on GitHub  
+- watch videos from the playlists, starting with statistical mathematics for machine learning  
+- summarize each video after watching  
+- upload summaries as markdown or PDF on the repository  
+- follow daily updates to track progress  
+- aim to finish all videos within one month  
+- active practice with pen and paper is encouraged  
+- contact the supervisor or team members for questions
+
+---
+
+## collaboration
+contributors:
+- yannour545-sketch  
+  ![yannour545](https://avatars.githubusercontent.com/u/252840077?v=4)
+- ahmedabusiam  
+  ![ahmedabusiam](https://avatars.githubusercontent.com/u/253461533?v=4)
+
+students are encouraged to discuss and collaborate via private group chat if needed (WhatsApp or Discord)  
+peer review and collective refinement are part of the learning process  
+
+---
+
+## how to contribute
+- fork the repository  
+- summarize concepts in markdown or PDF  
+- add examples and visualizations if possible  
+- submit pull requests  
+- review and refine collectively
+- [Linear Algebra done right solutions](#linear-algebra-done-right-solutions)
+- [Linear Algebra - The Organic Chemistry Tutor](#linear-algebra-the-organic-chemistry-tutor)
+- [Linear Algebra - Full Course - FreeCodeCamp](#linear-algebra-full-course-freecodecamp)
+- [Linear Algebra - Math for deep learning](#linear-algebra-math-for-deep-learning)
+- [Linear Algebra (Spring 2023) - Imperial College London](#linear-algebra-spring-2023---imperial-college-london)
+
+---
+
+## Linear Algebra, Fall 2011 - Strang
+[playlist link](https://youtube.com/playlist?list=PL49CF3715CB9EF31D&si=Ill42jM7TbO4WoVR)  
 - playlist by Prof. Gilbert Strang  
 - topics: vectors, matrices, basic operations, linear systems  
 - visual examples and Python exercises
